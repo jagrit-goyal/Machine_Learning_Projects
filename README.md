@@ -1,0 +1,1 @@
+Welcome to the Machine Learning Mini Projects repository! This repository contains a collection of small-scale projects that demonstrate various machine learning algorithms, techniques, and applications.
